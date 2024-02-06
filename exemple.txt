@@ -1,0 +1,8 @@
+Begin
+	First 1, 2, 3 Add 2.1,
+	Second 1, 2 Mult 3.0
+	
+	1 2 3 : a1 = - ( ! 6 + 7 ) & ! ( 3 * 56 / ( 7 - 6 ) ) | 5 + ! 7;
+	f1 = a1 + 1;
+	1 : sobaka2 = a1 * f1
+End
